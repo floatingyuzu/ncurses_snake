@@ -1,6 +1,7 @@
 #include "snake.h"
 #include "vector.h"
 #include "random.h"
+#include <unistd.h>
 
 using namespace std;
 
